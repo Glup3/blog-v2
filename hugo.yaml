@@ -17,6 +17,3 @@ params:
       url: mailto:glup3.tran@gmail.com
     - name: stackoverflow
       url: https://stackoverflow.com/users/11143225/glup3
-
-  images: 'profile_picture.jpeg'
-  author: 'Phuc Tran'
