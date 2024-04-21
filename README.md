@@ -12,3 +12,8 @@ hugo server -D
 ## How to deploy?
 
 GitHub Actions will do everything for you
+
+## Favicon
+
+- https://logofa.st/?ref=indiepage
+- https://favicon.io/favicon-converter/
