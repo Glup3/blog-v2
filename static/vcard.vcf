@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Phuc Tran
+N;CHARSET=UTF-8:Tran;Phuc;;;
+NICKNAME;CHARSET=UTF-8:Glup3
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:glup3.tran@gmail.com
+PHOTO;TYPE=JPEG;VALUE=URI:https://glup3.dev/profile_picture.jpeg
+ADR;CHARSET=UTF-8;TYPE=HOME:;;;Vienna;;;Austria
+URL;CHARSET=UTF-8:https://glup3.dev
+X-SOCIALPROFILE;TYPE=LinkedIn:https://www.linkedin.com/in/glup3-tran
+REV:2024-04-21T08:20:28.579Z
+END:VCARD

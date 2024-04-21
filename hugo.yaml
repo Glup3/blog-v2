@@ -2,10 +2,12 @@ baseURL: https://glup3.dev
 languageCode: en-us
 title: Phuc Tran
 theme: PaperMod
+canonifyURLs: false
+enableEmoji: true
 
 params:
   homeInfoParams:
-    Title: Hey, I am Phuc 👋
+    Title: 'Hey, I am Phuc :wave:'
     Content: Problem Solver | Full-stack Engineer | Ditto Lover
 
   socialIcons:
