@@ -1,0 +1,22 @@
+baseURL: https://glup3.dev
+languageCode: en-us
+title: Phuc Tran
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: Hey, I am Phuc 👋
+    Content: Problem Solver | Full-stack Engineer | Ditto Lover
+
+  socialIcons:
+    - name: linkedin
+      url: https://www.linkedin.com/in/glup3-tran
+    - name: github
+      url: https://github.com/Glup3
+    - name: email
+      url: mailto:glup3.tran@gmail.com
+    - name: stackoverflow
+      url: https://stackoverflow.com/users/11143225/glup3
+
+  images: 'profile_picture.jpeg'
+  author: 'Phuc Tran'
