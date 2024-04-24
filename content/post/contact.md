@@ -36,8 +36,10 @@ Europe, Austria, Vienna
 
 glup3.tran@gmail.com
 
-https://www.linkedin.com/in/glup3-tran
+[LinkedIn: Phuc Tran](https://www.linkedin.com/in/glup3-tran)
 
-{{< figure src="/profile_picture_qr.png" alt="vCard qr code" caption="vCard QR Code" height="200" >}}
+{{< figure src="/linkedin_qr.png" alt="LinkedIn qr code" height="200" >}}
 
 [vCard download](/vcard.vcf)
+
+{{< figure src="/profile_picture_qr.png" alt="vCard qr code" caption="vCard QR Code" height="200" >}}
