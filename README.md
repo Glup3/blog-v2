@@ -7,6 +7,8 @@ brew install hugo
 
 # --buildDrafts -D, --buildExpired -E, --buildFuture -F
 hugo server -D
+
+hugo new content post/name-of-new-post.md
 ```
 
 ## How to deploy?

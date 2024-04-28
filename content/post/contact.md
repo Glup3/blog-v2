@@ -1,8 +1,8 @@
 ---
 title: 'Contact Information'
 date: 2024-04-21T09:40:46+02:00
-tags: ['contact']
-categories: ['info']
+tags: ['github', 'LinkedIn']
+categories: ['contact']
 author: 'Phuc Tran'
 # showToc: true
 TocOpen: false

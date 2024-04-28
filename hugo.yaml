@@ -9,7 +9,7 @@ params:
   homeInfoParams:
     Title: 'Hey, I am Phuc :wave:'
     Content: Problem Solver | Full-stack Engineer | Ditto Lover
-
+  defaultTheme: dark
   socialIcons:
     - name: linkedin
       url: https://www.linkedin.com/in/glup3-tran
@@ -19,3 +19,28 @@ params:
       url: mailto:glup3.tran@gmail.com
     - name: stackoverflow
       url: https://stackoverflow.com/users/11143225/glup3
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /post/contact/
+      weight: 40

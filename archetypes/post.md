@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-categories: ["tech", "tutorials"]
+tags: []
+categories: ["tech", "tutorials", "til"]
 author: "Phuc Tran" # multiple authors: ["Me", "You"]
 showToc: true
 TocOpen: false
