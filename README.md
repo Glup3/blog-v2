@@ -5,6 +5,8 @@
 ```sh
 brew install hugo
 
+git submodule update --init --recursive
+
 # --buildDrafts -D, --buildExpired -E, --buildFuture -F
 hugo server -D
 

@@ -1,18 +1,16 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-# weight: 1
-# aliases: ["/first"]
 tags: []
 categories: ["tech", "tutorials", "til"]
-author: "Phuc Tran" # multiple authors: ["Me", "You"]
+author: "Phuc Tran"
 showToc: true
 TocOpen: false
 draft: true
 hidemeta: false
 comments: false
 description: "Desc Text."
-# canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://glup3.dev/post/url_you_need_to_replace"
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -33,4 +31,6 @@ cover:
 #     URL: "https://github.com/glup3/blog-v2/{content}"
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
+# weight: 1
+# aliases: ["/first"]
 ---

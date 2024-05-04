@@ -4,6 +4,7 @@ date: 2024-04-21T09:40:46+02:00
 tags: ['github', 'LinkedIn']
 categories: ['contact']
 author: 'Phuc Tran'
+canonicalURL: "https://glup3.dev/post/contact"
 # showToc: true
 TocOpen: false
 draft: false

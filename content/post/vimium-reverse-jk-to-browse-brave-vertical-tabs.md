@@ -13,6 +13,7 @@ hidemeta: false
 comments: false
 description: 'How to reverse J/K in Vimium to browse Brave vertical tabs.'
 summary: 'How to reverse J/K in Vimium to browse Brave vertical tabs.'
+canonicalURL: "https://glup3.dev/post/vimium-reverse-jk-to-browse-brave-vertical-tabs/"
 disableShare: false
 disableHLJS: false
 hideSummary: false
